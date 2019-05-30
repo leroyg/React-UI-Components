@@ -11,3 +11,8 @@
     flex-direction: column;
 }
 
+.CardFooterContainer{
+    width: 87%;
+    margin: 0% 0% 0% 11%;
+}
+
