@@ -1,1 +1,23 @@
 /* All styles for your header Components live here */
+.headingContainer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin:0 auto;
+    flex-direction: row;
+    border: 1px solid grey;
+}
+
+.ImageThumbnail {
+    display: flex;
+    width: 9%;
+    height: 100%;
+    margin: 1% 1% 1% 1%;    
+}
+
+.HeaderTitle{
+    display: flex;
+    flex-direction: row;
+}
+
+
