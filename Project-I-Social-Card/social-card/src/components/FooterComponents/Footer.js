@@ -9,7 +9,7 @@ const element = <FontAwesomeIcon icon={faComment} />
 
 const Footer = () => {
     return (
-        <div>
+        <div className="FooterElement">
     {element}
         </div>
 
