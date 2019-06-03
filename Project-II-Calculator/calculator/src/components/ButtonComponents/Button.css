@@ -5,17 +5,17 @@
   
   .number-button {
     width: 100px;
-    border: 1px solid #e3e3e3;
+    border: 1px solid lightgrey;
   }
   
   .main-button {
     width: 300px;
-    border: 1px solid #e3e3e3;
+    border: 1px solid lightgray;
   }
   
   .red-button {
-    background: #9e0523;
-    color: #ffffff;
+    background: darkred;
+    color: white;
     text-align: center;
     line-height: 100px;
     font-size: 50px;
