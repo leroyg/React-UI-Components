@@ -1,1 +1,36 @@
 /* All styles for your header Components live here */
+.headingContainer{
+    width: 100%;
+    display: flex;
+}
+
+.ImageThumbnail {
+    display: flex;
+    /* width: 30%;
+    height: 18%; */
+    margin: 1% 1% 1% 1%;    
+}
+
+#lambdaLogo {
+    height: 50%;
+}
+
+.HeaderTitle{
+    display: flex;
+    flex-direction: row;
+}
+
+.HeaderTitle h1{
+    font-size: 1rem;
+}
+
+.HeaderTitle h4{
+    font-size: .8rem;
+    color: lightgray;
+    margin: 2% 0% 0% 1%;
+}
+
+.headerContent{
+    width: 98%;
+}
+
